@@ -1,0 +1,59 @@
+.container{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(150, 167, 168);
+    border-radius: 15px;
+    padding: 5px;
+}
+.container h1{
+    text-align: center;
+    color: rgb(229, 243, 33);
+    font-size: 40px;
+    font-family: serif;
+}
+#inline{
+   display: inline;
+   margin-left: 80px;
+}
+.inputField input{
+    width: 80px;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+.inputField span{
+    width: 800px;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 20px;
+    background-color: #fff;
+}
+
+.inputField p{
+    font-size: 25px;
+}
+.buttons{
+    margin-left: 120px;
+}
+#clear{
+    width: 120px;
+    height: 45px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    background-color: rgb(211, 201, 201);
+    font-size: 20px;
+    color: rgb(46, 48, 156);
+
+}
+#answer{
+    width: 120px;
+    height: 45px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    background-color: rgb(162, 247, 162);
+    font-size: 20px;
+    color: rgb(255, 0, 179);
+}
+button{cursor: pointer;}
